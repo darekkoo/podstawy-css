@@ -1,4 +1,29 @@
 /*selektor znacznika*/
+
 p {
     background-color: aqua
+}
+
+/*selektor id*/
+
+#drugi-paragraf {
+    background-color: yellow
+}
+
+p {
+    background-color: red
+}
+
+/*klasy podajemy z kropka*/
+
+.akademia {
+    backround-color: aquamarine
+}
+
+#selektor-potomka > p {
+    background-color: gold
+}
+
+#drugi-potomek ~ p {
+    background-color: lime
 }
