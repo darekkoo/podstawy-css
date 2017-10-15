@@ -1,0 +1,7 @@
+input[type='text']::placeholder {
+    color:red
+}
+
+input[type='email']::placeholder {
+    color: goldenrod;
+}
